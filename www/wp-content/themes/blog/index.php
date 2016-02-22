@@ -9,26 +9,7 @@
             </div>
             <div class="col-md-3">
                 <div class="sidebar">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">Категории:</div>
-                        <div class="panel-body">
-                            <ul>
-                                <li><a href="#">Категория 1</a></li>
-                                <li><a href="#">Категория 2</a></li>
-                                <li><a href="#">Категория 3</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="panel panel-default">
-                        <div class="panel-heading">Записи:</div>
-                        <div class="panel-body">
-                            <ul>
-                                <li><a href="#">Запись 1</a></li>
-                                <li><a href="#">Запись 2</a></li>
-                                <li><a href="#">Запись 3</a></li>
-                            </ul>
-                        </div>
-                    </div>
+                    <?php dynamic_sidebar('right_sidebar')?>
                 </div>
             </div>
 <?php get_footer()?>
