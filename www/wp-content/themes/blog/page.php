@@ -6,9 +6,5 @@
                     <?php the_content();?>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="sidebar">
-                    <?php dynamic_sidebar('right_sidebar')?>
-                </div>
-            </div>
+        <?php get_template_part('sidebar')?>
 <?php get_footer()?>
