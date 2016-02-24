@@ -32,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/blog/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.522686">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state vertical-scroll-proportion="-13.333333">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/wp-content/themes/blog/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1306715">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -140,6 +150,7 @@
         <option value="$PROJECT_DIR$/www/wp-content/themes/blog/single.php" />
         <option value="$PROJECT_DIR$/www/wp-content/themes/blog/functions.php" />
         <option value="$PROJECT_DIR$/www/wp-content/themes/blog/index.php" />
+        <option value="$PROJECT_DIR$/www/wp-content/themes/blog/404.php" />
       </list>
     </option>
   </component>
@@ -583,7 +594,7 @@
       <workItem from="1456146874889" duration="3473000" />
       <workItem from="1456151073177" duration="3962000" />
       <workItem from="1456160425902" duration="8763000" />
-      <workItem from="1456310106067" duration="4295000" />
+      <workItem from="1456310106067" duration="4538000" />
     </task>
     <task id="LOCAL-00001" summary="create index and page, and css">
       <created>1456153817895</created>
@@ -601,7 +612,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20493000" />
+    <option name="totallyTimeSpent" value="20736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,8 +811,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.522686">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/blog/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1306715">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding />
         </state>
       </provider>
