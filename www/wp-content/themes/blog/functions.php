@@ -44,10 +44,10 @@ function color_block_shortcode($atts, $content = null){
         'color' => 'warning'
     ],$atts));
 
-    return "<div class=\"bg-$color text-$color\">$content</div>";
+    return "<div class=\"block bg-$color text-$color\">$content</div>";
 }
 
-add_shortcode('color_block','color_block_shortcode');
+add_shortcode('color-block','color_block_shortcode');
 
 // Pagination in bootstrap style
 function pagination( $query=null ) {
